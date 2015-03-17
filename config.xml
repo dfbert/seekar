@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.dfbert.adsmobi.alertanews"
+        id        = "com.dfbert.inst.seekarapp"
         version   = "0.9">
 
-    <name>Alerta Notícias</name>
+    <name>Seekar</name>
 
     <description>
-       Blog de notícias
+       Rastreamento de veículos
     </description>
 
     <author href="http://dfbert.com" email="contato@dfbert.com">
