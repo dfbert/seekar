@@ -42,6 +42,7 @@
 	<preference name="StatusBarStyle" value="lightcontent" />
 	<icon src="logo.png" />
 	<icon src="logo.png" gap:platform="android" />
+	<gap:splash src="splash.png" />
 
     <!-- Plugins can also be added here. -->
     <!--
