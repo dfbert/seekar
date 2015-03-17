@@ -36,6 +36,9 @@
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="false" />           <!-- all: hides the status bar at the top of the screen -->
 	<preference name="android-minSdkVersion" value="5" />
+	<preference name="StatusBarOverlaysWebView" value="false"/>
+	<preference name="StatusBarBackgroundColor" value="#4C4C4C"/>
+	<preference name="StatusBarStyle" value="lightcontent" />
 	<icon src="logo.png" />
 	<icon src="logo.png" gap:platform="android" />
 
