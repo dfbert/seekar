@@ -37,6 +37,8 @@
     <preference name="fullscreen"                 value="false" />           <!-- all: hides the status bar at the top of the screen -->
 	<preference name="android-minSdkVersion" value="5" />
 	<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+	<icon src="5757.png" gap:platform="ios" width="57" height="57" />
+	<icon src="7272.png" gap:platform="ios" width="72" height="72" />
 	<preference name="StatusBarOverlaysWebView" value="false"/>
 	<preference name="StatusBarBackgroundColor" value="#4C4C4C"/>
 	<preference name="StatusBarStyle" value="lightcontent" />
